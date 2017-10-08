@@ -5,5 +5,5 @@ setup(name='Test App',
       description='Aplicacion de Test',
       author='Victor Cuervo',
       author_email='vcuervo@gmail.com',
-      install_requires=['Flask==0.10.1']
+      install_requires=['Flask']
      )
